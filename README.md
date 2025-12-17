@@ -23,7 +23,7 @@ Il est conçu pour faciliter le travail des administrateurs systèmes en traitan
 
 1.  **Cloner le projet**
     ```bash
-    git clone [https://github.com/ElyesMR/generateur-teams-Telephonie-powershell.git](https://github.com/ElyesMR/generateur-teams-Telephonie-powershell.git)
+    git clone  https://github.com/ElyesMR/generateur-teams-Telephonie-powershell.git
     ```
 
 2.  **Lancer l'application**
